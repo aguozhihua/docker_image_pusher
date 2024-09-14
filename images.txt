@@ -1,3 +1,4 @@
 nginx
 dreamacro/clash:v1.18.0
+kasmweb/libre-office:1.15.0
 
