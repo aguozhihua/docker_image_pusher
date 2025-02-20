@@ -1,2 +1,1 @@
-kasmweb/libre-office:1.14.0
-onlyoffice/documentserver:8.1
+docker pull rustdesk/rustdesk-server:latest
