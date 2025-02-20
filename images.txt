@@ -1,1 +1,1 @@
-docker pull rustdesk/rustdesk-server:latest
+rustdesk/rustdesk-server:latest
